@@ -1,0 +1,15 @@
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\bin\Debug\net6.0\Задача 1.exe
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\bin\Debug\net6.0\Задача 1.deps.json
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\bin\Debug\net6.0\Задача 1.runtimeconfig.json
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\bin\Debug\net6.0\Задача 1.dll
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\bin\Debug\net6.0\Задача 1.pdb
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.csproj.AssemblyReference.cache
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfoInputs.cache
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfo.cs
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.csproj.CoreCompileInputs.cache
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.dll
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\refint\Задача 1.dll
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.pdb
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\Задача 1.genruntimeconfig.cache
+D:\ДЗ\HomeWorkClear\Lesson2\Задача 1\obj\Debug\net6.0\ref\Задача 1.dll
